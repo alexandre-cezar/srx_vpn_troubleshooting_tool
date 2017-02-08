@@ -1,0 +1,9 @@
+v 2.0
+"Looking Glass" - To add a "looking glass" type of feature, that will allow admins. to run a pre-defined set of commands
+directly from a SRX and display the output in the GUI
+
+"Refresh" - To allow the admin to get new messages from the kmd-logs file without the need to exit/reopen the application
+
+v 3.0
+"Compare configurations" - To add a feature that will allow an administrator to extract the VPN configuration for 2x SRXs
+and compare the differences
