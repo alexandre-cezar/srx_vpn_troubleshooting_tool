@@ -1,6 +1,3 @@
-__author__ = 'Alexandre S. Cezar - acezar@juniper.net - PyEZ, Database and parsers'
-# __author__ = 'Rosemary Chan - Parsers, GUI and log function'
-
 import datetime
 import os
 import sqlite3
@@ -450,8 +447,6 @@ try:
 
                 # Loading the data
                 # print "Inserting data into table"
-                g_msg.append("Inserting data into table")
-
                 try:
 
                     to_db = [vLogDate, vLocal_Peer, vRemote_Peer, vVPN_Tunnel, vMsg]

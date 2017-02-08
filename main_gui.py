@@ -1,6 +1,3 @@
-__author__ = 'Alexandre S. Cezar - acezar@juniper.net - PyEZ, Database and parsers'
-# __author__ = 'Rosemary Chan - Parsers, GUI and log function'
-
 from Tkinter import *
 import Tkinter
 import tkFont
