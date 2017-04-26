@@ -3,14 +3,14 @@
 The SRX VPN Troubleshoot tool helps SRX admins to troubleshoot VPN issues without the need to use CLI or management apps.
 
 ---REQUIREMENTS---
-Python 2.7.12 (it may work with other 2.7 releases, I just tried with .12)
-Juniper PyEZ library
-Tkinter library
-tkFont library
-ttk library
-sqlite3 library
-os library
-subprocess library
+Python 2.7.12 (it may work with other 2.7 releases, I just tried with .12);
+Juniper PyEZ library;
+Tkinter library;
+tkFont library;
+ttk library;
+sqlite3 library;
+os library;
+subprocess library;
 
 ---HOW IT WORKS---
 The application connects to a given SRX, extracts the vpn log file, parser all the messages and upload all of them
