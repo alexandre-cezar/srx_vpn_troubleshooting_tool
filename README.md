@@ -32,4 +32,4 @@ and run the main_gui.py file.
 If you are running from shell, just type python main_gui.py, if your OS already mapped python extension to the python interpreter, just open the app from the graphical user interface.
 
 ---TROUBLESHOOTING THE TROUBLESHOOTER---
-If you run into any issue, take a look in the log file. Once started, the application will save all the main tasks results into the vpn_log file (log is saved in the same folder where the application is running). It make easier to find where things went south and fix them (error in the network connection, lake of permission, credential errors, etc).
+If you run into any issue, take a look in the log file. Once started, the application will save all the main tasks results into the vpn_log file (log is saved in the same folder where the application is running). It make easier to find where things went south and fix them (error in the network connection, lack of permissions, credential errors, etc).
